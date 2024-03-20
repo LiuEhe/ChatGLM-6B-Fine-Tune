@@ -6,8 +6,8 @@
 
 ## 项目运行效果截图
 
-<img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/1.jpg" width="400" height="220.5"><img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/1.jpg" width="400" height="220.5">
-<img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/1.jpg" width="400" height="220.5">
+<img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/1.jpg" width="400" height="220.5"><img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/2.jpg" width="400" height="220.5">
+<img src="https://github.com/LiuEhe/ChatGLM-6B-Fine-Tune/blob/main/img/img/3.jpg" width="400" height="220.5">
 
 ## 功能
 - 可与使用者进行交流对话。
